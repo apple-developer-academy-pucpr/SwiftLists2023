@@ -1,2 +1,2 @@
-# SwiftLists2023
-Swift exercises
+# SwiftBasicLists
+Listas de exercicios iniciais para aprender programação com Swift.
